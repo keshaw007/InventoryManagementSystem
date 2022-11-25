@@ -1,2 +1,8 @@
 # InventoryManagementSystem
 Web application for Inventory Management System
+
+Login Information :-
+username :- admin
+password :- admin
+
+The goal of this project is to create a web application called Inventory Management System that will allow any firm to manage its inventory system. This system can be used to store inventory information, maintain stock levels, update inventory depending on sales information, and provide sales and inventory reports on a daily or weekly basis. Inventory management systems also provide cumulative sale reports. Inventory management system that will allow any firm to manage its inventory system. This system can be used to store inventory information, maintain stock levels, update inventory depending on sales information, and provide sales and inventory reports on a daily or weekly basis. Inventory management systems also provide cumulative sale reports. The goal of this project is to classify each component of the sales and inventory management system. With the help of this system, we are resolving several issues that have an impact on direct sales management and buying management. Businesses that handle transactions involving consumer goods need to use inventory management systems to assure quality control. A large retail store may run out of supply on a crucial item without appropriate inventory control. A reliable inventory control system will notify the wholesaler before the items go out of stock. The use of an inventory management system is another crucial tool for tracking huge shipments automatically. A computerised inventory management system reduces human inaccuracy in stock recording.
